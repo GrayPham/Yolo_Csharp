@@ -8,7 +8,7 @@ First, you need to install Python on your computer. You can download Python from
 
 ## 2. Download source code
 
-You can download the project's source code from the GitHub repository using Git. If you don't have Git installed, you can download it at [git-scm.com](https://git-scm.com/downloads).
+You can download the project's source code from the GitHub repository using Git. If you don't have Git installed, download it at [git-scm.com](https://git-scm.com/downloads).
 
 ```bash
 git clone https://github.com/GrayPham/Yolo_Csharp.git
