@@ -15,10 +15,9 @@ git clone https://github.com/GrayPham/Yolo_Csharp.git
 cd Yolo_Csharp
 ```
 ## 3. Open the Yolo_Cshape.sln file with visual studio
-```bash
+
 Video [Learning](https://youtu.be/BbmTvUz0bg8)
 
-```
 ## 4. Run the file and enjoy the application following the video steps
 
 ### Dataset of parking lots and automobiles
