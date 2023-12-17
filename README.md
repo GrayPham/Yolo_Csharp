@@ -16,7 +16,7 @@ cd Yolo_Csharp
 ```
 ## 3. Open the Yolo_Cshape.sln file with visual studio
 
-Video [Learning](https://youtu.be/BbmTvUz0bg8)
+Video [Yolo_Csharp](https://youtu.be/BbmTvUz0bg8)
 
 ## 4. Run the file and enjoy the application following the video steps
 
